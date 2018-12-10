@@ -1,4 +1,4 @@
-# A simple python guide/reference trough its bases
+# A simple python guide/reference trough its basis
 
 Here is the list in the ideal order of learning of the basic subjects
 
