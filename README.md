@@ -1,2 +1,2 @@
 # DjangoCrashCourse
-A DjangoCrashCourse and Python Bases
+A DjangoCrashCourse and Python Basis
